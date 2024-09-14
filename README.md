@@ -5,7 +5,7 @@ This repository is a collection of SQL scripts designed to demonstrate various S
 ## Repository Structure
 
 - `demonstration/`: Contains SQL scripts demonstrating SQL concepts and exercises.
-  - `day1.sql`: Contains SQL code for Day 1, including database creation, table creation, data insertion, and various queries.
+  - `day_1.sql`: Contains SQL code for Day 1, including database creation, table creation, data insertion, and various queries.
  
 ***
 
